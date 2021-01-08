@@ -19,7 +19,6 @@
     width: var(--menu-bar-width);
     height: var(--menu-bar-height);
     position: absolute;
-    transition: .3s ease-in-out;
 }
 
 #menu::before {
@@ -31,4 +30,3 @@
     left: 0;
     top: 20px;
 }
-
